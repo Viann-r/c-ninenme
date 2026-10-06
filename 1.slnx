@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="2/2.csproj" />
   <Project Path="4/4.csproj" />
+  <Project Path="5/5.csproj" />
   <Project Path="C#/C#.csproj" />
 </Solution>
