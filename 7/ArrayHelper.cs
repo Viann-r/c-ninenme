@@ -42,6 +42,7 @@ namespace _7
         {;
             int ind = -1;
             bool In = int.TryParse(Console.ReadLine(), out int c);
+
             for (int i = 0; i < arr.Length; i++)
             {
                 if (arr[i].Equals(c))
